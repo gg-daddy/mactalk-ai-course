@@ -33,8 +33,9 @@ debugpy==1.6.7
 decorator==5.1.1
 defusedxml==0.7.1
 dnspython==2.3.0
+docopt==0.6.2
 email-validator==2.0.0.post2
-en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0-py3-none-any.whl
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0-py3-none-any.whl#sha256=0964370218b7e1672a30ac50d72cdc6b16f7c867496f1d60925691188f4d2510
 exceptiongroup==1.1.1
 executing==1.2.0
 faiss-cpu==1.7.4
@@ -66,6 +67,7 @@ Jinja2==3.1.2
 jmespath==1.0.1
 joblib==1.2.0
 json5==0.9.14
+jsonpatch==1.33
 jsonpointer==2.3
 jsonschema==4.17.3
 jupyter-events==0.6.3
@@ -79,9 +81,11 @@ jupyterlab-pygments==0.2.2
 jupyterlab-widgets==3.0.7
 jupyterlab_server==2.22.1
 kiwisolver==1.4.4
-langchain==0.0.198
+langchain==0.0.313
+langchain-experimental==0.0.29
 langchainplus-sdk==0.0.8
 langcodes==3.3.0
+langsmith==0.0.43
 llama-index==0.6.27
 MarkupSafe==2.1.2
 marshmallow==3.19.0
@@ -112,6 +116,7 @@ pathy==0.10.1
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==9.5.0
+pipreqs==0.4.13
 platformdirs==3.5.1
 plotly==5.15.0
 preshed==3.0.8
@@ -191,5 +196,6 @@ webencodings==0.5.1
 websocket-client==1.5.2
 websockets==11.0.3
 widgetsnbextension==4.0.7
+yarg==0.1.9
 yarl==1.9.2
-zh-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/zh_core_web_sm-3.5.0/zh_core_web_sm-3.5.0-py3-none-any.whl
+zh-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/zh_core_web_sm-3.5.0/zh_core_web_sm-3.5.0-py3-none-any.whl#sha256=50ec664cef64a095dd9ec7b9a1dba76814db10d72e4024249f9105ace8cb5ffa
